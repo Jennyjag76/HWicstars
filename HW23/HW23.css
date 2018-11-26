@@ -1,0 +1,18 @@
+.Colorfont {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: blue
+}
+p {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+body {
+    background-color: chocolate;
+}
+p:hover {
+    transition: ease-in-out;
+    color: darkgreen;
+}
